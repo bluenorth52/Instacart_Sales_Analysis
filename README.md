@@ -36,13 +36,13 @@ profiles? Consider the price of orders, the frequency of orders, the products
 customers are ordering, and anything else you can think of.
 # Data Sourcing
 Please note, these are all the raw data sets where my data was derived from. These datasets were provided by Career Foundry and the collection methods and measurement bias are unknown. 
-https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
-Customers data set
-https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
-Data dictionary
-https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
-Orders and products CSV file
-https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.4_departments.zip
-departments data set ZIP file
-https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.6_orders_products_prior.zip
-Orders and Products Prior CSV file
+[Customers data set
+](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip
+)
+[Data dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+[Orders and products CSV file
+](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.3_orders_products.zip
+)Deartments data set ZIP file
+[Orders and Products Prior CSV file
+](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/4.6_orders_products_prior.zip
+)
